@@ -106,5 +106,5 @@ permalink: /legal/terms/
 
 ## 11. 문의
 
-- 이메일: only1mui@icloud.com
+- 이메일: support@207studio.dev
 - 개발자: juicos
