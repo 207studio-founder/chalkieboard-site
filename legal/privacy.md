@@ -110,7 +110,7 @@ iOS 설정 ▸ Apple 계정 ▸ 구독에서 하실 수 있습니다.
 
 ## 10. 문의
 
-- 이메일: only1mui@icloud.com
+- 이메일: support@207studio.dev
 - 개발자: juicos
 
 문의 메일은 답변 목적으로만 쓰고, 답변이 끝나면 지웁니다.

@@ -9,7 +9,7 @@ permalink: /
 
 ## 문의
 
-- 이메일: **only1mui@icloud.com**
+- 이메일: **support@207studio.dev**
 - 앱 안에서: 설정 ▸ 피드백 보내기 (기기·버전 정보가 자동으로 담깁니다)
 
 보통 2~3일 안에 답변드립니다. 수업 중 발생한 문제는 어떤 자료(PPTX·PDF)를 열었는지 함께 알려주시면 재현이 빠릅니다.
@@ -32,7 +32,7 @@ permalink: /
 
 Chalkieboard is a lesson board for teachers who teach from an iPad.
 
-- Email: **only1mui@icloud.com**
+- Email: **support@207studio.dev**
 - In the app: Settings ▸ Send feedback (device and version are attached automatically)
 
 Drawing tools are Apple Pencil only. Subscriptions are managed in iOS Settings ▸ Apple Account ▸ Subscriptions; refunds are handled by Apple.
